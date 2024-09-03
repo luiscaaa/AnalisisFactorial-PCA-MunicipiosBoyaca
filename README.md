@@ -1,1 +1,2 @@
+# AnalisisFactorial-PCA-MunicipiosBoyaca
 El archivo "AF_PCA_MunicipiosBoyaca.ipynb" contiene un código en Python que realiza un análisis factorial y un análisis de componentes principales sobre una base de datos con información de los distintos municipios de Boyacá obtenida de fuentes como el DANE, la gobernación de Botacá, etc. presentando cada factor en un mapa del departamento para facilitar la visualización, comprensión y análisis de la influencia de los mismos en cada municipio.
